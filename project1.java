@@ -1,4 +1,4 @@
-// Author: Zackary Tuazon
+// Author: Tuazon, Z.
 // The program interacts with user to convert the temperature.
 
 
